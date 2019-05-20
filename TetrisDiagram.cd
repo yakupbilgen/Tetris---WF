@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TetrisProje.CubukSekli">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAACAAIAAAAAIgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CubukSekli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TetrisProje.Form1">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAADAAAAAAAACAAAACAAAAIAQAAAQEAQAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TetrisProje.Kare">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEAAAQAAAAAIAEAACAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Kare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TetrisProje.KareSekli">
+    <Position X="11.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KareSekli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TetrisProje.Creator">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TetrisProje.LSekli">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LSekli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TetrisProje.Nokta">
+    <Position X="16.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>Nokta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TetrisProje.Oyun">
+    <Position X="18.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEBAAAAAAAwAAAAIAAABAAAAAAAAEEAAAAAAABA=</HashCode>
+      <FileName>Oyun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TetrisProje.Program" Collapsed="true">
+    <Position X="20" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TetrisProje.Sekil">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAAABAAAAAAAAAAIAIAAABAAAAAAAAAAAACABCABA=</HashCode>
+      <FileName>Sekil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TetrisProje.TersLSekli">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TersLSekli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TetrisProje.TersZSekli">
+    <Position X="13.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TersZSekli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TetrisProje.TSekli">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TSekli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TetrisProje.ZSekli">
+    <Position X="7.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ZSekli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TetrisProje.Properties.Resources">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAYAAAAgAAAABEAAAAQAAAAAACAAAAACAIIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TetrisProje.Properties.Settings">
+    <Position X="20" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
